@@ -4,6 +4,5 @@ plugins:
     client: true
   data_explorer_query_result_limit:
     default: 100000
-    hidden: false
     client: true
     max: 1000000000
